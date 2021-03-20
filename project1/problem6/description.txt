@@ -1,0 +1,16 @@
+COP3014 Project 1: Problem 6 - Write a C++ program called digitcubes.cpp that reads an integer between 0 and 1000 and adds 
+the cubes of all the digits in the integer. For example, if an integer is 432, the sum of the cubes all its digits is
+4^3 + 3^3 + 2^3 = 64 + 27 + 8 = 45. If the user enters an input that is invalid, the proggram must show an error and 
+ask the user to enter a valid number again.
+
+(i) Find algorithm first 
+read input as string
+parse input to read each number as an integer
+cube each integer add result to sum 
+
+Variables:
+* userInput - string, store user input as a string (easier in C++ for parsing individual 
+	values later)
+* flag - bool, some kind of flag useful for checking if input is good/bad
+* totalCubes - int, store the sum of cubes
+* num = int, always useful to have

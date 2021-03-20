@@ -1,0 +1,12 @@
+Exercise 10: Accpet and unspecified number of integers from the user (ask if user wants to enter another integer each time).
+When the user finishes entering numbers, program displays the count of positive, negative, and zeroes entered.
+
+Algorithm
+* prompt user for input 
+* read input into an integer type 
+* test input 
+	- if input > 0, increment positive count 
+	- if input < 0, increment negative count 
+	- if input == 0, increment 0 count 
+	** What to do with bad input? **
+* output count of each type

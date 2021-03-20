@@ -1,0 +1,28 @@
+Classes and Files:
+* header file - includes the class definition 
+* .cpp - member function definition (i.e. only place function implementations in this cpp file 
+	but keep the function declaractions and data memebers in the header file
+* NOTE: be sure to include the class header file when one wants to use the class
+
+Header file guards:
+* #ifndef FILENAME_H
+* #define FILENAME_H
+	// header contents
+* #endif
+
+Unit Testing:
+* testbench: a program to test another program 
+* test case: series of input/outpout checks 
+* Unit testing: creating a testbench with test cases to test a class/function 
+
+Modular Compilation:
+1) Compiling - files compiled separately into object files
+2) linking - object files are linked together into an executable
+
+Makefile fomat:
+target: prereq1 prereq2...
+[tab]	command 1
+[tab]	command 2
+	...
+
+

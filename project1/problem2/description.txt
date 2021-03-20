@@ -1,0 +1,11 @@
+Problem 2 - Write a C++ program called numdigits.cpp that reads an integer number into your 
+program and counts the number of digits in the number.
+Example: 435 -> 3, 1992 -> 4
+
+* TO DO: Find an algorithm for a function that can be used to output the number of digits in 
+an integer input
+
+1) read input into a string instead of an int 
+2) iterate over string
+3) each iteration increment a counter by 1
+4) once loop is complete, output count 

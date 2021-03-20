@@ -1,0 +1,11 @@
+Task: Write a C++ program to find the octal equivalent of the entered decimal number. 
+
+Binary to Ocatal Algorithm:
+---------------------------
+1) Perform integer division by 8 on the input to get the quotient 
+2) execute modulo division by 8 on the input to get the remainder 
+3) store quotient as input 
+4) store remainder as most significant digit in octal number
+5) if quotient is equal to 0, then the MSD is equal to the input
+   and the algorithm is complete 
+6) repeat step 1 with new input 
