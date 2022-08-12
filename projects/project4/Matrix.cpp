@@ -1,6 +1,6 @@
 /* Matrix.cpp - implementation of the Matrix class functions
  * 
- * Primary Author: D'Anthony Weaver
+ * Primary Author: Devere Anthony Weaver
  * Contributing Authors: N/A
  * Last Modified: 25 APRIL 2021
  */

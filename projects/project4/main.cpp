@@ -1,6 +1,6 @@
 /* main.cpp - Test driver for the Matrix program
  * 
- * Primary author: D'Anthony Weaver
+ * Primary author: Devere Anthony Weaver
  * Contributing authors: N/A
  * Last modified: 27 APRIL 2021
  *

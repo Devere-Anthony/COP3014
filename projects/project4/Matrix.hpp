@@ -1,6 +1,6 @@
 /* Matrix.hpp - Definition of the Matrix class. 
  * 
- * Primary Author: D'Anthony Weaver
+ * Primary Author: Devere Anthony Weaver
  * Contributing Authors: N/A
  * Last Modified: 25 APRIL 2021
  */
